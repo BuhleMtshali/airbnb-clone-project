@@ -179,4 +179,4 @@ Composable: Easy to combine and extend in React (or similar)
 ✅ **Initialized with:** `README.md` file  
 
 ```bash
-git clone https://github.com/yourusername/airbnb-clone-project.git
+git clone https://github.com/buhlemtshali/airbnb-clone-project.git
